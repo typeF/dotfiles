@@ -306,6 +306,7 @@ call s:h("cssUIAttr", { "fg": s:orange })
 
 " Go
 call s:h("goDeclaration", { "fg": s:purple })
+call s:h("goParen", { "fg": s:braces })
 
 " HTML
 call s:h("htmlTitle", { "fg": s:white })
